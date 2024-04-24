@@ -38,6 +38,7 @@ REGRAS DO NEGÓCIO
 - Professores são identificados por um código de professor.
 
 IDENTIFICAÇÃO DE ENTIDADES
+Buscou-se realizar uma análise cuidadosa das regras do negócio com o objetivo de identificar as entidades que serão representadas posteriormente no Diagrama Entidade-Relacionamento. Foram encontradas as seguintes entidades:
 - Aluno
 - Professor
 - Disciplina
