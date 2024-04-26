@@ -61,3 +61,21 @@ Durante o processo de modelagem algumas informações podem surgir que estivesse
 - Disciplina depende de disciplina.
 
 IDENTIFICANDO ATRIBUTOS
+Nesse ponto da moodelagem é importante analisar e definir quais outros atributos além daqueles que estão na regra de negócio podem ser adicionados às entidades.
+
+- Aluno:
+  * Número da matrícula
+  * Nome
+  * Endereço
+    ° Rua
+    ° Número
+    ° Bairro
+    ° CEP
+    ° Cidade
+    ° Estado
+  * Código do curso
+
+- Professor
+  * Código do professor
+  * Nome
+  * Código do departamento
