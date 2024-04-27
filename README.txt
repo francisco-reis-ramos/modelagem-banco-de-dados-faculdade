@@ -66,6 +66,7 @@ Nesse ponto da moodelagem é importante analisar e definir quais outros atributo
 - Aluno:
   * Número da matrícula
   * Nome
+  * Sobrenome
   * Endereço
     ° Rua
     ° Número
@@ -78,4 +79,24 @@ Nesse ponto da moodelagem é importante analisar e definir quais outros atributo
 - Professor
   * Código do professor
   * Nome
+  * Sobrenome
   * Código do departamento
+
+- Disciplina
+  * Código da Disciplina
+  * Nome da Disciplina
+  * Código do Departamento
+  * Número de Alunos
+
+- Curso
+  * Código do Curso
+  * Nome do Curso
+  * Código do Departamento
+
+- Departamento
+  * Código do Departamento
+  * Nome do Departamento
+
+Após listar todos os atributos é interessante esboçar a visualização das tabelas e relacionamentos para auxiliar na montagem do Diagrama Entidade-Relacionamento. 
+
+
